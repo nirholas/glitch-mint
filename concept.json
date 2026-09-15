@@ -1,0 +1,11 @@
+{
+  "slug": "glitch-mint",
+  "name": "Glitch Mint",
+  "kind": "art",
+  "description": "Generate deterministic glitch-art SVGs from a phrase and mint seed.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
