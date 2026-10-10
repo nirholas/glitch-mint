@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "glitch-mint"
+abstract: "Generate deterministic glitch-art SVGs from a phrase and mint seed."
+repository-code: "https://github.com/nirholas/glitch-mint"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
