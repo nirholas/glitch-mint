@@ -8,7 +8,7 @@ Generate deterministic glitch-art SVGs from a phrase and mint seed.
 
 - Source: https://github.com/nirholas/glitch-mint
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
